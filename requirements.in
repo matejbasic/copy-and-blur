@@ -1,0 +1,5 @@
+click
+gdown
+opencv-python
+omegaconf
+git+https://github.com/matejbasic/MiVOLO.git@fix-gender_score-nan
